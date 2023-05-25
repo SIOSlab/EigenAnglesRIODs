@@ -1,5 +1,4 @@
 # Overdetermined Eigenvector Approach to Passive Angles-Only Relative Orbit Determination
-#EigenAnglesRIOD
 
 # File Contents:
 - `anglesOnlyRIOD.py` contains the main functions for both algorithms. Specfically, it contains functions to create A and B matricies constructed in the paper. Further, it implements algorithm 1 (pseudoinverse) and algorithm 2 (quadratic eigenvalue) from the paper.
